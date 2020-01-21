@@ -65,8 +65,8 @@ footer p{
 footer a{
 	color: white;
 }
-footer a : hover{
-	opacity: .5;
+footer a:hover{
+	opacity: 0.5;
 	background-color: transparent;
 }
 
